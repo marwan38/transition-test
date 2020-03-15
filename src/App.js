@@ -88,7 +88,7 @@ function Page() {
     <div style={{ height: "100%", width: "100%" }}>
       <div
         style={{
-          backgroundImage: `url(../${images[0]})`,
+          backgroundImage: `url(${images[0]})`,
           backgroundSize: "cover",
           backgroundPosition: '50%',
           ...pageImageSize
