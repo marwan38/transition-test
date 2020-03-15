@@ -1,5 +1,6 @@
 {
-  "name": "transitions",
+  "name": "transition-test",
+  "homepage": "https://marwan38.github.io/transition-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
